@@ -19,7 +19,7 @@ class Healthbar extends FlxSpriteGroup {
   var display:Float = 1;
   var instance:FlxBasic;
   var property:String;
-  public function new(x:Float,y:Float,player1:String,player2:String,?instance:FlxBasic,?property:String,min:Float=0,max:Float=2,baseColor:FlxColor=0xFFFF0000,secondaryColor:FlxColor=0xFF66FF33){
+  public function new(x:Float,y:Float,player1:String,player2:String,?instance:FlxBasic,?property:String,min:Float=0,max:Float=2,baseColor:FlxColor=0xFFFF0000,secondaryColor:FlxColor=0xFF00FF00){
     super(x,y);
     if(property==null || instance==null){
       property='value';
