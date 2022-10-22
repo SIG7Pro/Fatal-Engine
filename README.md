@@ -1,13 +1,12 @@
 # BEFORE PUTTING AN ISSUE IN, MAKE SURE YOU'RE ON HAXE 4.2.4!
 
-# Friday Night Funkin: Andromeda Engine
+# Friday Night Funkin: Fatal Engine
 
 
-"ANDROMEDA ENGINE IS GOATED" - bbpanzu
 
-Andromeda Engine is a fork of Friday Night Funkin' with customization and gameplay in mind.
+Fatal Engine is a fork of Andromeda Engine, The engine that is a fork of Friday Night Funkin' with customization and gameplay in mind.
 
-Andromeda Engine includes but is not limited to:
+Fatal Engine includes:
 - Customizable note skins
 - Better input
 - A modifier system based on NotITG's and Schmovin's (Schmovin' concept by [4mbr0s3 2](https://www.youtube.com/channel/UCez-Erpr0oqmC71vnDrM9yA))
