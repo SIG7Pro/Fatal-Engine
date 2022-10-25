@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angryTails_intro.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0000" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0001" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0002" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0003" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0004" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0005" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0006" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0007" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0008" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0009" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0010" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0011" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0012" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0013" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0014" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0015" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0016" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0017" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0018" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0019" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0020" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0021" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0022" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0023" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0024" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0025" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0026" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0027" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0028" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0029" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0030" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0031" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0032" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0033" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0034" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0035" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0036" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0037" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0038" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0039" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0040" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0041" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0042" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0043" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0044" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0045" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0046" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0047" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0048" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0049" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0050" x="0" y="0" width="855" height="301" frameX="0" frameY="-1143" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0051" x="865" y="0" width="855" height="753" frameX="0" frameY="-669" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0052" x="865" y="0" width="855" height="753" frameX="-60" frameY="-489" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0053" x="1730" y="0" width="812" height="920" frameX="-161" frameY="-107" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0054" x="2552" y="0" width="791" height="1017" frameX="-165" frameY="-7" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0055" x="3353" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0056" x="3353" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0057" x="4159" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0058" x="4159" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0059" x="4965" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0060" x="4965" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0061" x="5771" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0062" x="6577" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0063" x="7383" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0064" x="7383" y="0" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0065" x="0" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0066" x="806" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0067" x="1612" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0068" x="1612" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0069" x="2418" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0070" x="3224" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0071" x="4030" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0072" x="4836" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0073" x="5642" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0074" x="6448" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0075" x="7254" y="1027" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0076" x="0" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0077" x="0" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0078" x="806" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0079" x="1612" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0080" x="2418" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0081" x="3224" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0082" x="4030" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0083" x="4836" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0084" x="5642" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0085" x="6448" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0086" x="7254" y="2015" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0087" x="0" y="3003" width="796" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0088" x="806" y="3003" width="831" height="946" frameX="-143" frameY="-67" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0089" x="1647" y="3003" width="788" height="1006" frameX="-164" frameY="-7" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0090" x="2445" y="3003" width="876" height="964" frameX="-153" frameY="-49" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0091" x="3331" y="3003" width="859" height="964" frameX="-153" frameY="-49" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0092" x="4200" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0093" x="5048" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0094" x="5896" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0095" x="6744" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0096" x="0" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0097" x="848" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0098" x="4200" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0099" x="5048" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0100" x="5896" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0101" x="6744" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0102" x="4200" y="3003" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0103" x="1696" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0104" x="2544" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0105" x="3392" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0106" x="4240" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0107" x="4240" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0108" x="4240" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0109" x="4240" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0110" x="4240" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0111" x="5088" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0112" x="5936" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0113" x="5936" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0114" x="5936" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0115" x="5936" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0116" x="5936" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0117" x="5936" y="4019" width="838" height="978" frameX="-160" frameY="-35" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0118" x="6784" y="4019" width="855" height="958" frameX="-152" frameY="-55" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0119" x="6784" y="4019" width="855" height="958" frameX="-152" frameY="-55" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0120" x="0" y="5007" width="822" height="1008" frameX="-168" frameY="-5" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0121" x="832" y="5007" width="845" height="1016" frameX="-161" frameY="0" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_finished0122" x="1687" y="5007" width="845" height="1016" frameX="-161" frameY="0" frameWidth="1029" frameHeight="1444"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0000" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0001" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0002" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0003" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0004" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0005" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0006" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0007" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0008" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0009" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0010" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0011" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0012" x="2542" y="5007" width="855" height="301"/>
+	<SubTexture name="TAILS_OH_DIOS_MIO_idle0013" x="2542" y="5007" width="855" height="301"/>
+</TextureAtlas>

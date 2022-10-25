@@ -1,0 +1,66 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"singDur": 6.1,
+	"spritesheet": "angryTails_assets",
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "TAILS_ANGRY_IDLE",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"fps": 24,
+			"prefix": "TAILS_ANGRY_UP",
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"fps": 24,
+			"prefix": "TAILS_ANGRY_LEFT",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"fps": 24,
+			"prefix": "TAILS_ANGRY_RIGHT",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"fps": 24,
+			"prefix": "TAILS_ANGRY_DOWN",
+			"looped": false,
+			"name": "singDOWN"
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "colas",
+	"beatDancer": true,
+	"healthColor": "0xFFDBA614",
+	"format": "andromeda"
+}
