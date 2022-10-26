@@ -13,8 +13,8 @@
 			],
 			"fps": 24,
 			"prefix": "SONIC_PAJA_IDLE",
-			"looped": false,
-			"name": "idle"
+			"name": "idle",
+			"looped": false
 		},
 		{
 			"offsets": [
@@ -23,8 +23,8 @@
 			],
 			"fps": 24,
 			"prefix": "SONIC_PAJA_UP0",
-			"looped": false,
-			"name": "singUP"
+			"name": "singUP",
+			"looped": false
 		},
 		{
 			"offsets": [
@@ -33,8 +33,8 @@
 			],
 			"fps": 24,
 			"prefix": "SONIC_PAJA_RIGHT0",
-			"looped": false,
-			"name": "singRIGHT"
+			"name": "singRIGHT",
+			"looped": false
 		},
 		{
 			"offsets": [
@@ -43,8 +43,8 @@
 			],
 			"fps": 24,
 			"prefix": "SONIC_PAJA_LEFT0",
-			"looped": false,
-			"name": "singLEFT"
+			"name": "singLEFT",
+			"looped": false
 		},
 		{
 			"offsets": [
@@ -53,8 +53,8 @@
 			],
 			"fps": 24,
 			"prefix": "SONIC_PAJA_DOWN0",
-			"looped": false,
-			"name": "singDOWN"
+			"name": "singDOWN",
+			"looped": false
 		},
 		{
 			"offsets": [
@@ -63,8 +63,8 @@
 			],
 			"fps": 24,
 			"prefix": "BF NOTE UP MISS",
-			"name": "singUPmiss",
-			"looped": false
+			"looped": false,
+			"name": "singUPmiss"
 		},
 		{
 			"offsets": [
@@ -73,8 +73,8 @@
 			],
 			"fps": 24,
 			"prefix": "BF NOTE RIGHT MISS",
-			"name": "singLEFTmiss",
-			"looped": false
+			"looped": false,
+			"name": "singLEFTmiss"
 		},
 		{
 			"offsets": [
@@ -83,8 +83,8 @@
 			],
 			"fps": 24,
 			"prefix": "BF NOTE LEFT MISS",
-			"name": "singRIGTmiss",
-			"looped": false
+			"looped": false,
+			"name": "singRIGTmiss"
 		},
 		{
 			"offsets": [
@@ -93,58 +93,8 @@
 			],
 			"fps": 24,
 			"prefix": "BF NOTE DOWN MISS",
-			"name": "singDOWNmiss",
-			"looped": false
-		},
-		{
-			"offsets": [
-				-3,
-				4
-			],
-			"fps": 24,
-			"prefix": "BF HEY",
-			"name": "hey",
-			"looped": false
-		},
-		{
-			"offsets": [
-				-3,
-				11
-			],
-			"fps": 24,
-			"prefix": "BF dies",
-			"name": "firstDeath",
-			"looped": false
-		},
-		{
-			"offsets": [
-				-3,
-				5
-			],
-			"fps": 24,
-			"prefix": "BF Dead Loop",
-			"name": "deathLoop",
-			"looped": true
-		},
-		{
-			"offsets": [
-				-3,
-				69
-			],
-			"fps": 24,
-			"prefix": "BF Dead confirm",
-			"name": "deathConfirm",
-			"looped": false
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"fps": 24,
-			"prefix": "BF idle shaking",
-			"name": "scared",
-			"looped": true
+			"looped": false,
+			"name": "singDOWNmiss"
 		},
 		{
 			"offsets": [
@@ -154,13 +104,63 @@
 			"fps": 24,
 			"prefix": "BF HEY",
 			"looped": false,
-			"name": "singUP-alt"
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				-3,
+				11
+			],
+			"fps": 24,
+			"prefix": "BF dies",
+			"looped": false,
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"fps": 24,
+			"prefix": "BF Dead Loop",
+			"looped": true,
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				-3,
+				69
+			],
+			"fps": 24,
+			"prefix": "BF Dead confirm",
+			"looped": false,
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"fps": 24,
+			"prefix": "BF idle shaking",
+			"looped": true,
+			"name": "scared"
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"fps": 24,
+			"prefix": "BF HEY",
+			"name": "singUP-alt",
+			"looped": false
 		}
 	],
-	"flipX": false,
+	"flipX": true,
 	"antialiasing": true,
 	"iconName": "sonic",
 	"beatDancer": true,
-	"healthColor": "0xFF2B3099",
-	"format": "andromeda"
+	"format": "andromeda",
+	"healthColor": "0xFF2B3099"
 }
