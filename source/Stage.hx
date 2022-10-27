@@ -39,6 +39,7 @@ class Stage extends FlxTypedGroup<FlxBasic> {
     "fresh"=>"stage",
     "dadbattle"=>"stage",
     "tutorial"=>"stage",
+    "caught"=>"caughtstage",
   ];
 
   public static var stageNames:Array<String> = [
@@ -50,6 +51,7 @@ class Stage extends FlxTypedGroup<FlxBasic> {
     "mallEvil",
     "school",
     "schoolEvil",
+		"caughtstage",
     "blank"
   ];
 
@@ -456,6 +458,19 @@ class Stage extends FlxTypedGroup<FlxBasic> {
 
         centerX = bg.getMidpoint().x;
         centerY = bg.getMidpoint().y+200;
+      case 'caughtstage':
+				gfVersion = 'bf';
+				camOffset.x = 300;
+
+				bfPosition.y -= 220;
+				bfPosition.x += 260;
+
+				defaultCamZoom = 0.90;
+
+				var room:FlxSprite = new FlxSprite(-120, -50).loadGraphic(Paths.image('BG_ROOM_lmao', 'shared/images'));
+				room.scrollFactor.set(1, 1);
+				room.antialiasing = true;
+				add(room);
       case 'limo':
         gfVersion = 'gf-car';
         camOffset.x = 300;
