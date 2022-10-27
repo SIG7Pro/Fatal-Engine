@@ -13,46 +13,46 @@
 			],
 			"fps": 24,
 			"prefix": "TAILS_ANGRY_IDLE",
-			"name": "idle",
-			"looped": false
+			"looped": false,
+			"name": "idle"
 		},
 		{
+			"prefix": "TAILS_ANGRY_UP",
 			"offsets": [
-				-6,
-				50
+				-14,
+				93
 			],
 			"fps": 24,
-			"prefix": "TAILS_ANGRY_UP",
 			"name": "singUP",
 			"looped": false
 		},
 		{
+			"prefix": "TAILS_ANGRY_LEFT",
 			"offsets": [
-				-10,
-				10
+				10,
+				-35
 			],
 			"fps": 24,
-			"prefix": "TAILS_ANGRY_LEFT",
 			"name": "singLEFT",
 			"looped": false
 		},
 		{
+			"prefix": "TAILS_ANGRY_RIGHT",
 			"offsets": [
-				0,
-				27
+				-8,
+				-4
 			],
 			"fps": 24,
-			"prefix": "TAILS_ANGRY_RIGHT",
 			"name": "singRIGHT",
 			"looped": false
 		},
 		{
+			"prefix": "TAILS_ANGRY_DOWN",
 			"offsets": [
-				0,
-				-30
+				18,
+				-76
 			],
 			"fps": 24,
-			"prefix": "TAILS_ANGRY_DOWN",
 			"name": "singDOWN",
 			"looped": false
 		}
@@ -61,6 +61,6 @@
 	"antialiasing": true,
 	"iconName": "colas",
 	"beatDancer": true,
-	"format": "andromeda",
-	"healthColor": "0xFFDBA614"
+	"healthColor": "0xFFDBA614",
+	"format": "andromeda"
 }
