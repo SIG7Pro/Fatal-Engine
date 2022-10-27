@@ -9,6 +9,7 @@ Fatal Engine is a fork of Andromeda Engine, The engine that is a fork of Friday 
 Fatal Engine includes:
 - Customizable note skins
 - Better input
+- Ports of a few mods because **Yes**
 - A modifier system based on NotITG's and Schmovin's (Schmovin' concept by [4mbr0s3 2](https://www.youtube.com/channel/UCez-Erpr0oqmC71vnDrM9yA))
 - A whole lotta options
 - The ability to add characters without recompiling source (Press 8 ingame to open the character editor) (Support for Psych's character format, too!)
