@@ -467,7 +467,7 @@ class Stage extends FlxTypedGroup<FlxBasic> {
 
 				defaultCamZoom = 0.90;
 
-				var room:FlxSprite = new FlxSprite(-120, -50).loadGraphic(Paths.image('BG_ROOM_lmao', 'shared'));
+				var room:FlxSprite = new FlxSprite(-120, -50).loadGraphic(Paths.image('bgs/BG_ROOM_lmao', 'shared'));
 				room.scrollFactor.set(1, 1);
 				room.antialiasing = true;
 				add(room);
