@@ -1,21 +1,21 @@
 # BEFORE PUTTING AN ISSUE IN, MAKE SURE YOU'RE ON HAXE 4.2.4!
 
-# Friday Night Funkin: Andromeda Engine
+# Friday Night Funkin: Fatal Engine
 
 
-"ANDROMEDA ENGINE IS GOATED" - bbpanzu
 
-Andromeda Engine is a fork of Friday Night Funkin' with customization and gameplay in mind.
+Fatal Engine is a fork of Andromeda Engine, The engine that is a fork of Friday Night Funkin' with customization and gameplay in mind.
 
-Andromeda Engine includes but is not limited to:
+Fatal Engine includes:
 - Customizable note skins
 - Better input
 - A modifier system based on NotITG's and Schmovin's (Schmovin' concept by [4mbr0s3 2](https://www.youtube.com/channel/UCez-Erpr0oqmC71vnDrM9yA))
 - A whole lotta options
 - The ability to add characters without recompiling source (Press 8 ingame to open the character editor) (Support for Psych's character format, too!)
 - The ability to add songs to freeplay without recompiling source
-- One of the best lua modchart systems in FNF so far (probably (in my opinion, anyway (I haven't used Psych's)))
+- One of the best lua modchart systems in FNF so far (Excluding Psych (Which I haven’t Compared))
 - Scroll velocities/mid-song speed changes
+- A softcoded event system
 
 ## Original Funkin' team
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
@@ -89,6 +89,7 @@ flixel-addons
 flixel-ui
 hscript
 newgrounds
+hxCodec
 ```
 So for each of those type `haxelib install [library]` so shit like `haxelib install newgrounds`
 
