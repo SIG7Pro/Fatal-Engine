@@ -95,7 +95,7 @@ class Options
 	public var xMod:Float = 1;
 	public var mMod:Float = 1;
 	public var fixHoldSegCount:Bool = true;
-	public var judgementWindow:String = 'ITG';
+	public var judgementWindow:String = 'Andromeda';
 	public var noteOffset:Int = 0;
 	public var botPlay:Bool = false;
 	public var loadModcharts:Bool = true;
@@ -142,7 +142,7 @@ class Options
 	public var showFPS:Bool = false;
 	public var showMS:Bool = false;
 	public var onlyScore:Bool = false;
-	public var smoothHPBar:Bool = false;
+	public var smoothHPBar:Bool = true;
 	public var showComboCounter:Bool = true;
 	public var showRatings:Bool = true;
 	public var hitsoundVol:Float = 50;
