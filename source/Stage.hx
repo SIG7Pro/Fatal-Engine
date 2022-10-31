@@ -462,14 +462,18 @@ class Stage extends FlxTypedGroup<FlxBasic> {
 				gfVersion = 'bf';
 				camOffset.x = 300;
 
-				bfPosition.y -= 220;
-				bfPosition.x += 260;
+				bfPosition.y -= 100;
+				bfPosition.x += 770;
+        gfPosition.y -= 999;
+        gfPosition.x += 999;
+				dadPosition.y -= 100;
+				dadPosition.x += 100;
+				defaultCamZoom = 1.0;
 
-				defaultCamZoom = 0.90;
-
-				var room:FlxSprite = new FlxSprite(-120, -50).loadGraphic(Paths.image('bgs/BG_ROOM_lmao', 'shared'));
+				var room:FlxSprite = new FlxSprite(-100, -50).loadGraphic(Paths.image('bgs/BG_ROOM_lmao', 'shared'));
 				room.scrollFactor.set(1, 1);
 				room.antialiasing = true;
+        room.setGraphicSize(Std.int(room.width * 1.2));
 				add(room);
       case 'limo':
         gfVersion = 'gf-car';
