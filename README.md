@@ -17,6 +17,7 @@ Fatal Engine includes:
 - One of the best lua modchart systems in FNF so far (Excluding Psych (Which I haven’t Compared))
 - Scroll velocities/mid-song speed changes
 - A softcoded event system
+- A port of "Caught".
 
 ## Original Funkin' team
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
