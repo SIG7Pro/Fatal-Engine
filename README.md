@@ -14,8 +14,9 @@ Fatal Engine includes:
 - A whole lotta options
 - The ability to add characters without recompiling source (Press 8 ingame to open the character editor) (Support for Psych's character format, too!)
 - The ability to add songs to freeplay without recompiling source
-- One of the best lua modchart systems in FNF so far (probably (in my opinion, anyway (I haven't used Psych's)))
+- One of the best lua modchart systems in FNF so far (Excluding Psych (Which I haven’t Compared))
 - Scroll velocities/mid-song speed changes
+- A softcoded event system
 
 ## Original Funkin' team
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
